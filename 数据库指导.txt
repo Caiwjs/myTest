@@ -1,0 +1,2 @@
+//必须输入这条命令后才可使用net 命令
+set path=%path%;%windir%;%windir%\system32
